@@ -44,7 +44,7 @@
 
 | Halaman Utama | Detail Artikel | Editor Admin |
 |:---:|:---:|:---:|
-| <img src="https://i.imgur.com/contoh1.jpg](https://ibb.co/JF50fShn" width="200"/> | <img src="https://i.imgur.com/contoh2.jpg](https://ibb.co/gbGkRr45" width="200"/> | <img src="https://i.imgur.com/contoh3.jpg](https://ibb.co/bgM0JYvT" width="200"/> |
+| <img src="https://ibb.co/JF50fShn" width="200"/> | <img src="https://ibb.co/gbGkRr45" width="200"/> | <img src="https://ibb.co/bgM0JYvT" width="200"/> |
 
 > *Catatan: Screenshot sedang dalam proses pembaruan.*
 
