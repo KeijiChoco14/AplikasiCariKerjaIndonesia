@@ -45,7 +45,7 @@
 | Halaman Utama | Detail Artikel | Editor Admin |
 |:---:|:---:|:---:|
 | *(Upload screenshot Home)* | *(Upload screenshot Detail)* | *(Upload screenshot Editor)* |
-| <img src="Screenshot_20260108_080805" width="200"/> | <img src="Screenshot_20260108_080822" width="200"/> | <img src="Screenshot_20260108_080835" width="200"/> |
+| <img src="Screenshot_20260108_080805.png" width="200"/> | <img src="Screenshot_20260108_080822.png" width="200"/> | <img src="Screenshot_20260108_080835.png" width="200"/> |
 
 > *Catatan: Screenshot sedang dalam proses pembaruan.*
 
