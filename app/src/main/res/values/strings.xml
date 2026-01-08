@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cari Kerja Indonesia</string>
+    <string name="textSplash1">Find Your</string>
+    <string name="textSplash2">Dream Job</string>
+    <string name="textSplash3">Here!</string>
+    <string name="textSplash4">Experience all the most exciting job roles based on your interest and study major</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
